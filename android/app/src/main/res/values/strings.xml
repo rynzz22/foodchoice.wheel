@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Couple\'s Choice Wheel</string>
+    <string name="title_activity_main">Couple\'s Choice Wheel</string>
+    <string name="package_name">com.coupleswheel.app</string>
+    <string name="custom_url_scheme">com.coupleswheel.app</string>
+</resources>
